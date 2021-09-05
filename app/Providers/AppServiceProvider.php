@@ -25,7 +25,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        Schema::defaultStringLength(191);
+        // Schema::defaultStringLength(191);
         // View::share('ordersCount', Order::all()->where('order_status_id', 3)->count());
     }
 }
