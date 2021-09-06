@@ -4,8 +4,11 @@
     <div class="container">
         <div class="row mb-4 mt-4">
             <h1 class="h3 mb-3">Orders management</h1>
-            <a class="btn-primary-custom" href="/admin/orders/accepted">Accepted orders</a>
-            <a class="btn-primary-custom" href="/admin/orders/declined">Declined orders</a>
+            <div>
+                <a class="btn-primary-custom mb-4" href="/admin/orders/accepted">Accepted orders</a>
+                <div class="my-4"></div>
+                <a class="btn-primary-custom" href="/admin/orders/declined">Declined orders</a>
+            </div>
         </div>
     </div>
     <div class="container table-container">

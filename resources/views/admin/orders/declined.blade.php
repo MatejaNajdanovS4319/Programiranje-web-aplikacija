@@ -5,8 +5,11 @@
     <div class="row mb-2 mb-xl-3">
         <div>
             <h1 class="h3 mb-3">Orders management</h1>
-            <a class="btn-primary-custom" href="/admin/orders/accepted">Accepted orders</a>
-            <a class="btn-primary-custom" href="/admin/orders/declined">Declined orders</a>
+            <div class="___class_+?2___">
+                <a class="btn-primary-custom mb-4" href="/admin/orders/accepted">Accepted orders</a>
+                <div class="my-4"></div>
+                <a class="btn-primary-custom" href="/admin/orders/declined">Declined orders</a>
+            </div>
         </div>
     </div>
 
