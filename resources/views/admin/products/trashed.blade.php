@@ -4,7 +4,7 @@
 
     <div class="container pt-4">
         <div class="row mb-2 mb-xl-3">
-            <div class="col-auto d-none d-sm-block">
+            <div class="col-auto d-sm-block">
                 <h1 class="h3 mb-3">Trashed Products</h1>
             </div>
         </div>

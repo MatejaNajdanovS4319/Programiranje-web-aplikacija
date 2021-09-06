@@ -3,11 +3,9 @@
 @section('content')
     <div class="container">
         <div class="row mb-4 mt-4">
-            <div class="col-auto d-none d-sm-block">
-                <h1 class="h3 mb-3">Orders management</h1>
-                <a class="btn-primary-custom" href="/admin/orders/accepted">Accepted orders</a>
-                <a class="btn-primary-custom" href="/admin/orders/declined">Declined orders</a>
-            </div>
+            <h1 class="h3 mb-3">Orders management</h1>
+            <a class="btn-primary-custom" href="/admin/orders/accepted">Accepted orders</a>
+            <a class="btn-primary-custom" href="/admin/orders/declined">Declined orders</a>
         </div>
     </div>
     <div class="container table-container">

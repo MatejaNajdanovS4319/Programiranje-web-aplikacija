@@ -5,10 +5,9 @@
     <div class="container">
 
         <div class="row mb-2 mb-xl-3 pt-4">
-            <div class="col-auto d-none d-sm-block">
+            <div>
                 <h1 class="h3 mb-3">Modify products</h1>
             </div>
-
             <div class="col-auto ml-auto text-right mt-n1">
 
                 <!-- Button trigger modal for product create -->
